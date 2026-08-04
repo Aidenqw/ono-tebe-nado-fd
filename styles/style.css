@@ -415,10 +415,11 @@ body {
     text-decoration: underline;
     
 }
-.footer__menu-list-item-chosen{
-    text-decoration: none;
-}
+
 .footer__menu-list-item{
     text-decoration: underline;
     text-underline-offset: 4px;
+}
+.footer__menu-list-item-chosen{
+    text-decoration: none;
 }

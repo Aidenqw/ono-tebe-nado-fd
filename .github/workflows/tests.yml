@@ -16,5 +16,5 @@ jobs:
       - name: Check files
         run: |
                   test -f index.html
-                  test -d style
-                  test -d img
+                  test -d styles
+                  test -d images
